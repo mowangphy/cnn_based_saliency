@@ -3,11 +3,17 @@ This project uses CNN back-propagation to do image saliency detection, and achie
 
 If you hope to use the codes, please cite:
 @article{pan2016deep,
+
   title={A Deep Learning Based Fast Image Saliency Detection Algorithm},
+  
   author={Pan, Hengyue and Jiang, Hui},
+  
   journal={arXiv preprint arXiv:1602.00577},
+  
   year={2016}
+  
 }
+
 
 Based on MatConvNet
 
