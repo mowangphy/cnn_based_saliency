@@ -2,6 +2,7 @@
 This project uses CNN back-propagation to do image saliency detection, and achieved state-of-the-art performance with fast speed.
 
 If you hope to use the codes, please cite:
+
 @article{pan2016deep,
 
   title={A Deep Learning Based Fast Image Saliency Detection Algorithm},
