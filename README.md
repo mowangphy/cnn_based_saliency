@@ -1,6 +1,8 @@
 # cnn_based_saliency
 This project uses CNN back-propagation to do image saliency detection, and achieved state-of-the-art performance with fast speed.
 
+On Pascal VOC 2012 this method achieves 0.685 F_0.3 score on the test set.
+
 If you hope to use the codes, please cite:
 
 @article{pan2016deep,
