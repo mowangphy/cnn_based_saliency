@@ -3,17 +3,15 @@ This project uses CNN back-propagation to do image saliency detection, and achie
 
 On Pascal VOC 2012 this method achieves 0.685 F_0.3 score on the test set.
 
-If you hope to use the codes, please cite:
+If you hope to use the codes, please cite (the paper has been accepted by IJCNN 2017):
 
-@article{pan2016deep,
+@article{pan2017deep,
 
-  title={A Deep Learning Based Fast Image Saliency Detection Algorithm},
+  title={A Fast Method for Saliency Detection by Back-Propagating A Convolutional Neural Network and Clamping Its Partial Outputs},
   
   author={Pan, Hengyue and Jiang, Hui},
   
-  journal={arXiv preprint arXiv:1602.00577},
-  
-  year={2016}
+  year={2017}
   
 }
 
