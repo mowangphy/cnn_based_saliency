@@ -5,13 +5,19 @@ On Pascal VOC 2012 this method achieves 0.685 F_0.3 score on the test set.
 
 If you hope to use the codes, please cite (the paper has been accepted by IJCNN 2017):
 
-@article{pan2017deep,
+@inproceedings{pan2017fast,
 
-  title={A Fast Method for Saliency Detection by Back-Propagating A Convolutional Neural Network and Clamping Its Partial Outputs},
+  title={A fast method for saliency detection by back-propagating a convolutional neural network and clamping its partial outputs},
   
   author={Pan, Hengyue and Jiang, Hui},
   
-  year={2017}
+  booktitle={Neural Networks (IJCNN), 2017 International Joint Conference on},
+  
+  pages={3585--3592},
+  
+  year={2017},
+  
+  organization={IEEE}
   
 }
 
